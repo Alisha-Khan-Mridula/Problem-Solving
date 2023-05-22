@@ -34,9 +34,12 @@ Step 4: Now, check the right-upper grid. There is a value or the current value i
 
 Step 5: We will continue the process till the last remaining grid. 
 
-A visualization of forming 3x3 square matrix is given below: 
+**A visualization of forming 3x3 square matrix is given below:** 
 
 
 ![Magic square drawio](https://github.com/Alisha-Khan-Mridula/Problem-Solving/assets/124449169/48ef4dd3-830f-46b5-b432-edcb2d679268)
 
-If we exchange first row and last row and frist column and last column, we will get other magric squares.  
+If we exchange first row with last row, frist column with last column and rotate the matrix,  we will all get other magric squares. 
+
+**Demonstration of creatings other 3x3 magic squares:** ![Untitled Diagram drawio](https://github.com/Alisha-Khan-Mridula/Problem-Solving/assets/124449169/803c7f3f-4952-4742-a757-6d0423450340)
+
