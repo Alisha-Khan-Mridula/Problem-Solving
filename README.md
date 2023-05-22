@@ -1,4 +1,4 @@
-**Magic Square:** 
+**Problem 1 : Magic Square:** 
 
 A magic square is a nxn matrix filled with distinct numbers where the sum of each row, column and diagonal will be equal to the same number.  
 
