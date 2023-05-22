@@ -38,3 +38,5 @@ A visualization of forming 3x3 square matrix is given below:
 
 
 ![Magic square drawio](https://github.com/Alisha-Khan-Mridula/Problem-Solving/assets/124449169/48ef4dd3-830f-46b5-b432-edcb2d679268)
+
+If we exchange first row and last row and frist column and last column, we will get other magric squares.  
