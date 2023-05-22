@@ -1,4 +1,4 @@
-Magic Square: 
+**Magic Square:** 
 
 A magic square is a nxn matrix filled with distinct numbers where the sum of each row, column and diagonal will be equal to the same number.  
 
@@ -19,9 +19,9 @@ ii) After that, go to its right-upper grid.
          column and put the next value.
     => If there is a value, then back go to the grid below the current grid and
          put the next value.  
-Note:  If the current value is in the last grid of the first row, then insert the next value in the lower grid of the current value. 
+**Note:**  If the current value is in the last grid of the first row, then insert the next value in the lower grid of the current value. 
 
-1) All 3x3 magic squares: 
+**1) All 3x3 magic squares:** 
 
 There are 1 to 9 numbers and we have put these 9 numbers in such a way that the sum of each row, column and diagonal is equal to 15. 
 
